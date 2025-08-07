@@ -4,6 +4,9 @@
 
 This is a responsive music player web application built with HTML, CSS, and JavaScript. It features a modern UI inspired by popular music streaming services, with full playback controls and playlist management.
 
+- 🔗 **Live Demo**: [Click here to view the music player](https://jamshed-ali-23.github.io/Music-Player/)
+- 📂 **GitHub Repository**: [View on GitHub](https://github.com/Jamshed-Ali-23/Music-Player)
+
 ## Features
 
 - **Responsive Design**: Works on both desktop and mobile devices using Bootstrap
